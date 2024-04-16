@@ -5,7 +5,7 @@ import re
 app = Flask(__name__)
 
 # Load your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "check"
 
 # Load custom data from file
 def load_custom_data():
